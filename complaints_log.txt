@@ -1,0 +1,37 @@
+08-19 12:41 root         INFO     Connected successfully to complaints_log.db
+08-19 12:41 werkzeug     INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+08-19 12:41 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 12:41:26] "[37mGET / HTTP/1.1[0m" 200 -
+08-19 12:41 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 12:41:28] "[37mGET /complaints.html HTTP/1.1[0m" 200 -
+08-19 12:43 root         INFO     Connected successfully to complaints_log.db
+08-19 12:43 root         INFO     New complaint registered successfully
+08-19 12:43 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 12:43:24] "[37mPOST /complaints.html HTTP/1.1[0m" 200 -
+08-19 12:43 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 12:43:30] "[37mGET /Track%20Complaints.html HTTP/1.1[0m" 200 -
+08-19 12:43 root         INFO     Connected successfully to complaints_log.db
+08-19 12:43 root         INFO     Data retrieved successfully
+08-19 12:43 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 12:43:33] "[37mPOST /Track%20Complaints.html HTTP/1.1[0m" 200 -
+08-19 19:34 root         INFO     Connected successfully to complaints_log.db
+08-19 19:34 werkzeug     INFO      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+08-19 19:34 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 19:34:12] "[37mGET / HTTP/1.1[0m" 200 -
+08-19 19:34 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 19:34:14] "[37mGET /complaints.html HTTP/1.1[0m" 200 -
+08-19 19:34 root         INFO     Connected successfully to complaints_log.db
+08-19 19:34 root         INFO     New complaint registered successfully
+08-19 19:34 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 19:34:45] "[37mPOST /complaints.html HTTP/1.1[0m" 200 -
+08-19 19:34 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 19:34:52] "[37mGET /Track%20Complaints.html HTTP/1.1[0m" 200 -
+08-19 19:36 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 19:36:31] "[37mGET /complaints.html HTTP/1.1[0m" 200 -
+08-19 19:37 root         INFO     Connected successfully to complaints_log.db
+08-19 19:37 root         INFO     New complaint registered successfully
+08-19 19:37 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 19:37:10] "[37mPOST /complaints.html HTTP/1.1[0m" 200 -
+08-19 19:37 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 19:37:15] "[37mGET /Track%20Complaints.html HTTP/1.1[0m" 200 -
+08-19 19:37 root         INFO     Connected successfully to complaints_log.db
+08-19 19:37 root         INFO     Data retrieved successfully
+08-19 19:37 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 19:37:19] "[37mPOST /Track%20Complaints.html HTTP/1.1[0m" 200 -
+08-19 19:37 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 19:37:57] "[37mGET /complaints.html HTTP/1.1[0m" 200 -
+08-19 20:09 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 20:09:57] "[37mGET /complaints.html HTTP/1.1[0m" 200 -
+08-19 20:18 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 20:18:04] "[37mGET /complaints.html HTTP/1.1[0m" 200 -
+08-19 20:18 root         INFO     Connected successfully to complaints_log.db
+08-19 20:18 root         INFO     New complaint registered successfully
+08-19 20:18 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 20:18:47] "[37mPOST /complaints.html HTTP/1.1[0m" 200 -
+08-19 20:19 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 20:19:01] "[37mGET /Track%20Complaints.html HTTP/1.1[0m" 200 -
+08-19 20:19 root         INFO     Connected successfully to complaints_log.db
+08-19 20:19 root         INFO     Data retrieved successfully
+08-19 20:19 werkzeug     INFO     127.0.0.1 - - [19/Aug/2020 20:19:08] "[37mPOST /Track%20Complaints.html HTTP/1.1[0m" 200 -
